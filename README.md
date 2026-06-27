@@ -1,7 +1,7 @@
 <!-- Animated typing header -->
 <p align="center">
   <a href="https://github.com/myczka">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=1B2A4A&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jordan+%F0%9F%91%8B;C%2B%2B+%2F+Java+%2F+TypeScript+developer;Currently+leveling+up+in+Go+%F0%9F%90%B9" alt="typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=7FB2E5&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jordan+%F0%9F%91%8B;C%2B%2B+%2F+Java+%2F+TypeScript+developer;Currently+leveling+up+in+Go+%F0%9F%90%B9" alt="typing header" />
   </a>
 </p>
 
