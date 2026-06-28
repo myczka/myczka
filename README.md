@@ -1,8 +1,6 @@
-<!-- Animated typing header -->
+<!-- Animated glowing terminal header (Share Tech Mono, self-contained SVG) -->
 <p align="center">
-  <a href="https://github.com/myczka">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=7FB2E5&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jordan+%F0%9F%91%8B;C%2B%2B+%2F+Java+%2F+TypeScript+developer;Currently+leveling+up+in+Go+%F0%9F%90%B9" alt="typing header" />
-  </a>
+  <img src="./assets/header.svg" width="640" alt="Hi, I'm Jordan — dev: C / C++ / Java / TS — now learning: Go" />
 </p>
 
 <p align="center">
@@ -25,6 +23,16 @@
     <img src="https://skillicons.dev/icons?i=go,py,react,postgres,cs,dotnet&theme=light" alt="currently learning" />
   </a>
 </p>
+
+<br />
+
+<!-- Projects -->
+<h3 align="center">📌 Projects</h3>
+
+- **[BetterMousekeys](https://github.com/myczka/BetterMousekeys)** · `C++` — A better way to control your mouse with your keyboard.
+- **[flowey-fight](https://github.com/myczka/flowey-fight)** · `C` — A cool fight against an AU Flowey.
+- **[cppLibrary](https://github.com/myczka/cppLibrary)** · `C++` — Personal universal C++ headers & implementations that simplify command-line games.
+- **[PopupRemover](https://github.com/myczka/PopupRemover)** · `JavaScript` — A browser extension to remove popups, un-dim the site, and restore scrollbar functionality.
 
 <br />
 
