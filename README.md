@@ -1,10 +1,10 @@
 <!-- Animated glowing terminal header (Share Tech Mono, self-contained SVG) -->
 <p align="center">
-  <img src="./assets/header.svg" width="640" alt="Hi, I'm Jordan — dev: C / C++ / Java / TS — now learning: Go" />
+  <img src="./assets/header.svg" width="640" alt="Hi, I'm Jordan — dev: C / C++ / Java / TS — now learning: Python" />
 </p>
 
 <p align="center">
-  Developer with a C/C++ &amp; Java background, now building with <b>TypeScript&nbsp;+&nbsp;React</b> and learning <b>Go</b>.
+  Developer with a C/C++ &amp; Java background, now building with <b>TypeScript&nbsp;+&nbsp;React</b> and learning <b>Python</b>.
 </p>
 
 <br />
