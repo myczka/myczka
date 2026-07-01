@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Developer with a C/C++ &amp; Java background, now building with <b>TypeScript&nbsp;+&nbsp;React</b> and learning <b>Python</b>.
+  Developer with a C/C++ &amp; Java background, learning <b>TypeScript&nbsp;+&nbsp;React</b> and <b>Python</b>.
 </p>
 
 <br />
@@ -13,14 +13,14 @@
 <h3 align="center">🛠️ Tech I work with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,c,ts,react,vscode,git,github,bash,linux&theme=light" alt="tech I work with" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,vscode,git,github,bash,linux&theme=light" alt="tech I work with" />
   </a>
 </p>
 
 <h3 align="center">🌱 Currently learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,react,postgres,cs,dotnet&theme=light" alt="currently learning" />
+    <img src="https://skillicons.dev/icons?i=ts,react,go,py&theme=light" alt="currently learning" />
   </a>
 </p>
 
