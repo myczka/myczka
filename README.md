@@ -31,7 +31,6 @@
 
 - **[BetterMousekeys](https://github.com/myczka/BetterMousekeys)** · `C++` — A better way to control your mouse with your keyboard.
 - **[flowey-fight](https://github.com/myczka/flowey-fight)** · `C` — A cool fight against an AU Flowey.
-- **[cppLibrary](https://github.com/myczka/cppLibrary)** · `C++` — Personal universal C++ headers & implementations that simplify command-line games.
 - **[PopupRemover](https://github.com/myczka/PopupRemover)** · `JavaScript` — A browser extension to remove popups, un-dim the site, and restore scrollbar functionality.
 
 <br />
