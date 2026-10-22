@@ -1,6 +1,6 @@
 <!-- Animated glowing terminal header (Share Tech Mono, self-contained SVG) -->
 <p align="center">
-  <img src="./assets/header.svg" width="640" alt="Hi, I'm Jordan — dev: C / C++ / Java / TS — now learning: Python" />
+  <img src="./assets/header.svg" width="640" alt="Hi, I'm Jordan — dev: C / C++ / Java — now learning: Python" />
 </p>
 
 <p align="center">
@@ -30,8 +30,9 @@
 <h3 align="center">📌 Projects</h3>
 
 - **[BetterMousekeys](https://github.com/myczka/BetterMousekeys)** · `C++` — A better way to control your mouse with your keyboard.
-- **[flowey-fight](https://github.com/myczka/flowey-fight)** · `C` — A cool fight against an AU Flowey.
+- **[flowey-fight](https://github.com/myczka/flowey-fight)** · `C` — Cool fight against an AU Flowey.
 - **[PopupRemover](https://github.com/myczka/PopupRemover)** · `JavaScript` — A browser extension to remove popups, un-dim the site, and restore scrollbar functionality.
+- **[KeyboardStudio](https://github.com/keyboard-studio/keyboard-studio)** · `TypeScript/Vite` — Browser based authoring studio for Keyman keyboards
 
 <br />
 
