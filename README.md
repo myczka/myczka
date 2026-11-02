@@ -36,12 +36,6 @@
 
 <br />
 
-<!-- Stats cards (navy + pastel-blue theme) -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=myczka&show_icons=true&hide_border=true&title_color=1B2A4A&icon_color=7FB2E5&text_color=334155&bg_color=ffffff" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myczka&layout=compact&hide_border=true&title_color=1B2A4A&text_color=334155&bg_color=ffffff" alt="top languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=myczka&hide_border=true&background=ffffff&stroke=E2E8F0&ring=7FB2E5&fire=7FB2E5&currStreakLabel=1B2A4A&currStreakNum=1B2A4A&sideLabels=334155&sideNums=1B2A4A&dates=94A3B8" alt="streak stats" />
 </p>
