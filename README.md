@@ -13,14 +13,14 @@
 <h3 align="center">🛠️ Tech I work with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,vscode,bash,github,git&theme=light" alt="tech I work with" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,vscode,bash,git&theme=light" alt="tech I work with" />
   </a>
 </p>
 
 <h3 align="center">🌱 Currently learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,react,go&theme=light" alt="currently learning" />
+    <img src="https://skillicons.dev/icons?i=py,go&theme=light" alt="currently learning" />
   </a>
 </p>
 
