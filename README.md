@@ -20,7 +20,7 @@
 <h3 align="center">🌱 Currently learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go&theme=light" alt="currently learning" />
+    <img src="https://skillicons.dev/icons?i=rust,py,go&theme=light" alt="currently learning" />
   </a>
 </p>
 
