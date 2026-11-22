@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Developer with a C/C++ &amp; Java background, learning <b>TypeScript&nbsp;+&nbsp;React</b> and <b>Python</b>.
+  Developer with a C/C++ &amp; Java background, learning <b>Rust</b> and <b>Python</b>.
 </p>
 
 <br />
