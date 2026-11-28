@@ -36,9 +36,9 @@
 
 <br />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=myczka&hide_border=true&background=ffffff&stroke=E2E8F0&ring=7FB2E5&fire=7FB2E5&currStreakLabel=1B2A4A&currStreakNum=1B2A4A&sideLabels=334155&sideNums=1B2A4A&dates=94A3B8" alt="streak stats" />
-</p>
+</p> -->
 
 <br />
 
